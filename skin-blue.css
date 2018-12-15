@@ -1,6 +1,6 @@
-/* pi-hole-midnight */
-/* Custom dark theme CSS for pi-hole to replace skin-blue AdminLTE theme */
-/* https://github.com/jacobbates/pi-hole-midnight/ */
+/* pi-hole-brimstone */
+/* Custom theme CSS for pi-hole to replace skin-blue AdminLTE theme */
+/* https://github.com/S74NK/pi-hole-midnight/ */
 
 body {
 background:#000;
@@ -53,8 +53,8 @@ background-color:#000;
 }
 
 .small-box.bg-aqua,.small-box.bg-green,.small-box.bg-red,.small-box.bg-yellow {
-background:#0a0d0f!important;
-border-top: 3px solid #3e4244;
+background:#1F0915!important;
+border-top: 3px solid #611E42;
 }
 
 .bg-red,.bg-yellow,.bg-aqua,.bg-blue,.bg-light-blue,.bg-green,.bg-navy,.bg-teal,.bg-olive,.bg-lime,.bg-orange,.bg-fuchsia,.bg-purple,.bg-maroon,.bg-black,.bg-red-active,.bg-yellow-active,.bg-aqua-active,.bg-blue-active,.bg-light-blue-active,.bg-green-active,.bg-navy-active,.bg-teal-active,.bg-olive-active,.bg-lime-active,.bg-orange-active,.bg-fuchsia-active,.bg-purple-active,.bg-maroon-active,.bg-black-active,.callout.callout-danger,.callout.callout-warning,.callout.callout-info,.callout.callout-success,.alert-success,.alert-danger,.alert-error,.alert-warning,.alert-info,.label-danger,.label-info,.label-warning,.label-primary,.label-success,.modal-primary .modal-body,.modal-primary .modal-header,.modal-primary .modal-footer,.modal-warning .modal-body,.modal-warning .modal-header,.modal-warning .modal-footer,.modal-info .modal-body,.modal-info .modal-header,.modal-info .modal-footer,.modal-success .modal-body,.modal-success .modal-header,.modal-success .modal-footer,.modal-danger .modal-body,.modal-danger .modal-header,.modal-danger .modal-footer {
@@ -62,8 +62,8 @@ color:#fbfbfb!important;
 }
 
 .box,.tab-content,.nav-tabs-custom>.tab-content {
-background:#0a0d0f;
-border-color:#3e4244;
+background:#1F0915;
+border-color:#611E42;
 }
 
 .box-header.with-border {
@@ -91,7 +91,7 @@ color:#b8c7ce;
 
 .nav-tabs-custom,.nav-tabs-custom>.nav-tabs {
 background:#0e1010;
-border-color:#3e4244;
+border-color:#611E42;
 color:#847545;
 }
 
@@ -100,7 +100,7 @@ border-color:#30383b;
 }
 
 .nav-tabs-custom>.nav-tabs>li.active>a,.nav-tabs-custom>.nav-tabs>li.active:hover>a {
-background-color:#0a0d0f;
+background-color:#1F0915;
 color:#847545;
 }
 
@@ -129,7 +129,7 @@ color:#b8c7ce;
 }
 
 .skin-blue .main-header .navbar .nav>li>a:hover,.skin-blue .main-header .navbar .nav>li>a:active,.skin-blue .main-header .navbar .nav>li>a:focus,.skin-blue .main-header .navbar .nav .open>a,.skin-blue .main-header .navbar .nav .open>a:hover,.skin-blue .main-header .navbar .nav .open>a:focus,.skin-blue .main-header .navbar .nav>.active>a,.skin-blue .main-header .navbar>.sidebar-toggle:hover,.skin-blue .main-header .navbar>.sidebar-toggle:active,.skin-blue .main-header>.logo:hover,.skin-blue .main-header>.logo:active {
-background:#3e4244;
+background:#611E42;
 }
 
 .skin-blue .main-header .navbar .navbar-nav>li>a,.skin-blue .main-header .navbar .navbar-custom-menu .navbar-nav>li>a,.skin-blue .main-header .navbar .navbar-right>li>a {
@@ -241,7 +241,7 @@ background-color:#101417;
 }
 
 .layout-boxed {
-background-color:#0a0d0f !important;
+background-color:#1F0915 !important;
 background-image:none !important;
 }
 
