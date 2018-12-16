@@ -74,7 +74,7 @@ color:#888;
 
 .content-wrapper,.right-side {
 background:#12171a;
-color:#808b90;
+color:#847545;
 }
 
 .list-group-item,.input-group .input-group-addon,.panel,.panel-default>.panel-heading {
@@ -86,7 +86,7 @@ color:#847545;
 .main-footer {
 background:#1a2226;
 border-color:#30383b;
-color:#b8c7ce;
+color:#847545;
 }
 
 .nav-tabs-custom,.nav-tabs-custom>.nav-tabs {
@@ -125,7 +125,7 @@ background:#292e30!important;
 
 .skin-blue .main-header .navbar {
 background:#222d32;
-color:#b8c7ce;
+color:#847545;
 }
 
 .skin-blue .main-header .navbar .nav>li>a:hover,.skin-blue .main-header .navbar .nav>li>a:active,.skin-blue .main-header .navbar .nav>li>a:focus,.skin-blue .main-header .navbar .nav .open>a,.skin-blue .main-header .navbar .nav .open>a:hover,.skin-blue .main-header .navbar .nav .open>a:focus,.skin-blue .main-header .navbar .nav>.active>a,.skin-blue .main-header .navbar>.sidebar-toggle:hover,.skin-blue .main-header .navbar>.sidebar-toggle:active,.skin-blue .main-header>.logo:hover,.skin-blue .main-header>.logo:active {
@@ -138,17 +138,17 @@ border:none;
 
 .skin-blue .main-header .navbar>.sidebar-toggle {
 border:none;
-color:#b8c7ce;
+color:#847545;
 }
 
 .skin-blue .main-header>.logo {
 background:#1a2226;
 border:none;
-color:#b8c7ce;
+color:#847545;
 }
 
 .skin-blue .sidebar a,.skin-blue .main-header .navbar .nav>li>a {
-color:#b8c7ce;
+color:#847545;
 }
 
 .skin-blue .sidebar a:hover {
@@ -166,7 +166,7 @@ border-bottom-left-radius:0;
 border-bottom-right-radius:2px;
 border-top-left-radius:0;
 border-top-right-radius:2px;
-color:#999;
+color:#847545;
 }
 
 .skin-blue .sidebar-form input[type="text"] {
@@ -194,11 +194,11 @@ color:#5B4D2B;
 }
 
 .skin-blue .sidebar-menu .treeview-menu>li.active>a,.skin-blue .sidebar-menu .treeview-menu>li>a:hover {
-color:#fff;
+color:#847545;
 }
 
 .skin-blue .sidebar-menu .treeview-menu>li>a {
-color:#8aa4af;
+color:#847545;
 }
 
 .skin-blue .sidebar-menu>li.active>a {
@@ -207,7 +207,7 @@ border-left-color:#FFB900;
 
 .skin-blue .sidebar-menu>li.header {
 background:#1a2226;
-color:#4b646f;
+color:#847545;
 }
 
 .skin-blue .sidebar-menu>li:hover>a,.skin-blue .sidebar-menu>li.active>a,.skin-blue .sidebar-menu>li.menu-open>a {
@@ -255,5 +255,5 @@ color: rgba(255,255,255,0.15);
 }
 
 #all-queries tr td:nth-child(6){
-  color: #808b90 !important;
+  color: #847545 !important;
 }
